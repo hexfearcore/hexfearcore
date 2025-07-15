@@ -69,10 +69,11 @@ I'm always learning something new — whether it's networking concepts, low-leve
 
 ---
 
-## 📬 Let's Connect
+## 🔗 Connect With Me
 
-- 📸 [Instagram: @hexfearcore](https://www.instagram.com/hexfearcore)
-- 💬 [Telegram: @hexfearcore](https://t.me/hexfearcore)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hexfearcore)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hexfearcore)
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=githubpages)](https://hexfearcore.github.io)
 
 ---
 
