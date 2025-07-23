@@ -64,7 +64,6 @@ I'm always learning something new — whether it's networking concepts, low-leve
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hexfearcore&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hexfearcore&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
